@@ -1,0 +1,19 @@
+{
+  "name": "demo-my-github-actions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AlgoDame/demo-my-github-actions.git",
+  "author": "AlgoDame <chiamakaojiyi@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "dependencies": {
+    "jest": "^27.0.4"
+  }
+  
+  
+}
